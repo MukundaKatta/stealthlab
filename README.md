@@ -73,6 +73,3 @@ stealthlab/
 └── package.json
 ```
 
-## License
-
-MIT
